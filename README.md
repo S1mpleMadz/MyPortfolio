@@ -1,6 +1,6 @@
 # Hello, I'm Ahmad
 
-<a href="www.linkedin.com/in/ahmad-afroz-4920aa218/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ahmad-afroz-4920aa218/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a third-year student, currently studying Computer Science.
 
