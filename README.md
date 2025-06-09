@@ -23,3 +23,5 @@ I aim to fill my portfolio with personal projects as well as my coursework to de
 
 ![Python](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/language-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/language-JavaScript-007396?logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/language-PHP-007396?logo=java&logoColor=white)
