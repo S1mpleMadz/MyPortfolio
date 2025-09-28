@@ -6,13 +6,13 @@ I am a third-year student, currently studying Computer Science.
 
 ## Objective
 
-I aim to fill my portfolio with personal projects as well as my coursework to demonstrate my skills in programming and data analysis.
+I aim to fill my portfolio with personal projects as well as my coursework to demonstrate my skills in programming , data analysis and web-dev skills.
 
 ## Experience
 
 | Project | Associated Repo     |
 | ------- | ------------------- |
-|         | <a href="">View</a> |
+|  Work Allocation System       | <a href="https://github.com/S1mpleMadz/WAS.git">View</a> |
 |         | <a href="">View</a> |
 |         | <a href="">View</a> |
 |         | <a href="">View</a> |
